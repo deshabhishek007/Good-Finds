@@ -15,3 +15,7 @@ List of Good Finds for Developer / Marketers / Blogger
 - [Canva](https://canva.com) - Quick tool for Social media images
 - [Adobe Spark](https://spark.adobe.com/) - Quick tool for Social Images and Videos.
 - [Lumen5](https://lumen5.com) - Convert Blogpost into 480p Video for free.  
+
+### Tools for Headline/Title  
+- [SEMRush Title Generator](https://www.semrush.com/title-generator/) - Ideas generator based on Keyword data.
+- [CoSchedule Headline Analyzer](https://coschedule.com/headline-analyzer) - Analyzes Headlines based on Emotional quotient and powerful words.
