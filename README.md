@@ -8,6 +8,7 @@ List of Good Finds for Developer / Marketers / Blogger
 
 ### Self Hosted Monitoring / Analytics Tools
 - [Instagram Monitoring Tool](https://igmonitoring.com/) - Open Source and Cloud version available.
+- [Matomo Analytics Platform](https://matomo.org) - Self hosted Analytics suite, Formerly known as Piwik.
 
 ### Web Based Designer Tools 
 - [Photopea](https://photopea.com) - Free online alternative for Photoshop.
