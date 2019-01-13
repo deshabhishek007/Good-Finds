@@ -13,7 +13,7 @@ List of Good Finds for Developer / Marketers / Blogger
 ### Keyword Research Tools
 - [UberSuggest](https://neilpatel.com/ubersuggest/) - By Neil Patel, good for finding keyword Ideas.
 - [Keywords Everywhere](https://keywordseverywhere.com) - Browser based addon to analize keywords on page and on search reasults. Chrome & Firefox
-
+- [AnswerThePublic](https://answerthepublic.com) - Visual Keyword Research and Content Ideas
 
 ### Web Based Designer Tools 
 - [Photopea](https://photopea.com) - Free online alternative for Photoshop.
