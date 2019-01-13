@@ -10,6 +10,11 @@ List of Good Finds for Developer / Marketers / Blogger
 - [Instagram Monitoring Tool](https://igmonitoring.com/) - Open Source and Cloud version available.
 - [Matomo Analytics Platform](https://matomo.org) - Self hosted Analytics suite, Formerly known as Piwik.
 
+### Keyword Research Tools
+- [UberSuggest](https://neilpatel.com/ubersuggest/) - By Neil Patel, good for finding keyword Ideas.
+- [Keywords Everywhere](https://keywordseverywhere.com) - Browser based addon to analize keywords on page and on search reasults. Chrome & Firefox
+
+
 ### Web Based Designer Tools 
 - [Photopea](https://photopea.com) - Free online alternative for Photoshop.
 - [Gravit Designer](https://designer.gravit.io/) - Free Online Vector Editor, also available for MacOS, Windows and Linux.
