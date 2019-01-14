@@ -32,3 +32,14 @@ List of Good Finds for Developer / Marketers / Blogger
 ### Stories Creation tools
 - [Buffer Stories Creator](https://buffer.com/stories-creator) - Quickly create thumb-stopping content for Instagram and Facebook
 - [Unfold](https://unfoldstori.es/) - Toolkit for Storytellers, with many clean layouts. 
+
+
+## Looking for more lists like that?
+- [Awesome](https://github.com/sindresorhus/awesome)
+- [Awesome Community](https://github.com/peterkokot/awesome-community)
+
+## Contribute
+Your contributions and suggestions are :heart: welcome. Ensure to read the [guidelines](https://github.com/deshabhishek007/Good-Finds/blob/master/CONTRIBUTING.md) first.
+
+## License
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
