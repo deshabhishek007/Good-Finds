@@ -1,8 +1,14 @@
 # Good-Finds
 List of Good Finds for Developer / Marketers / Blogger
 
-### Spreadsheet Hacks for SEO and Marketing
+### Automation Tools
+ - [IFTTT](https://ifttt.com/) - If this then that
+ - [Zapier](https://zapier.com/) - Automate your workflows
+ - [Buffer](https://www.buffer.com) - Good for Scheduling Things
+ - [Huginn](https://github.com/huginn/huginn) - Self hosted, hackable version of IFTTT and Zapier
+ - [Phantombuster](https://phantombuster.com) - Data Scraping and Hackable API's
 
+### Spreadsheet Hacks for SEO and Marketing
  - [Sheets for Marketers](https://sheetsformarketers.com/) - a curated directory of the best automation templates & tools in the wild. 
  - [RankTank](https://www.ranktank.org/) - DIY, Pre-built & Free SEO Tools
 
