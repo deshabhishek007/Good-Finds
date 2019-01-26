@@ -1,25 +1,31 @@
 # Good-Finds
-List of Good Finds for Developer / Marketers / Blogger
+List of Good Finds for Developer / Marketers / Blogger.
 
 ### Automation Tools
- - [IFTTT](https://ifttt.com/) - If this then that
- - [Zapier](https://zapier.com/) - Automate your workflows
- - [Buffer](https://www.buffer.com) - Good for Scheduling Things
- - [Huginn](https://github.com/huginn/huginn) - Self hosted, hackable version of IFTTT and Zapier
- - [Phantombuster](https://phantombuster.com) - Data Scraping and Hackable API's
+ - [IFTTT](https://ifttt.com/) - If this then that.
+ - [Zapier](https://zapier.com/) - Automate your workflows.
+ - [Buffer](https://www.buffer.com) - Good for Scheduling Things.
+ - [Huginn](https://github.com/huginn/huginn) - Self hosted, hackable version of IFTTT and Zapier.
+ - [Phantombuster](https://phantombuster.com) - Data Scraping and Hackable API's.
+ - [Later](https://later.com/) - Another Scheduling Tool, Free for Personal Use.
+
+### Email Marketing
+ - [Really Good Emails](https://reallygoodemails.com/) - Showcase of email design and resources on the web.
+ 
+### Keyword Research Tools
+- [UberSuggest](https://neilpatel.com/ubersuggest/) - By Neil Patel, good for finding keyword Ideas.
+- [Keywords Everywhere](https://keywordseverywhere.com) - Browser based addon to analize keywords on page and on search reasults. Chrome & Firefox.
+- [AnswerThePublic](https://answerthepublic.com) - Visual Keyword Research and Content Ideas.
 
 ### Spreadsheet Hacks for SEO and Marketing
  - [Sheets for Marketers](https://sheetsformarketers.com/) - a curated directory of the best automation templates & tools in the wild. 
- - [RankTank](https://www.ranktank.org/) - DIY, Pre-built & Free SEO Tools
+ - [RankTank](https://www.ranktank.org/) - DIY, Pre-built & Free SEO Tools.
 
 ### Self Hosted Monitoring / Analytics Tools
 - [Instagram Monitoring Tool](https://igmonitoring.com/) - Open Source and Cloud version available.
 - [Matomo Analytics Platform](https://matomo.org) - Self hosted Analytics suite, Formerly known as Piwik.
 
-### Keyword Research Tools
-- [UberSuggest](https://neilpatel.com/ubersuggest/) - By Neil Patel, good for finding keyword Ideas.
-- [Keywords Everywhere](https://keywordseverywhere.com) - Browser based addon to analize keywords on page and on search reasults. Chrome & Firefox
-- [AnswerThePublic](https://answerthepublic.com) - Visual Keyword Research and Content Ideas
+
 
 ### Web Based Designer Tools 
 - [Photopea](https://photopea.com) - Free online alternative for Photoshop.
@@ -36,7 +42,7 @@ List of Good Finds for Developer / Marketers / Blogger
 - [CoSchedule Headline Analyzer](https://coschedule.com/headline-analyzer) - Analyzes Headlines based on Emotional quotient and powerful words.
 
 ### Stories Creation tools
-- [Buffer Stories Creator](https://buffer.com/stories-creator) - Quickly create thumb-stopping content for Instagram and Facebook
+- [Buffer Stories Creator](https://buffer.com/stories-creator) - Quickly create thumb-stopping content for Instagram and Facebook.
 - [Unfold](https://unfoldstori.es/) - Toolkit for Storytellers, with many clean layouts. 
 
 
