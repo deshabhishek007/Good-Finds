@@ -9,6 +9,10 @@ List of Good Finds for Developer / Marketers / Blogger.
  - [Phantombuster](https://phantombuster.com) - Data Scraping and Hackable API's.
  - [Later](https://later.com/) - Another Scheduling Tool, Free for Personal Use.
 
+### Competition Analysis
+- [Buzzsumo](https://app.buzzsumo.com/research/content) - Let you analyze performing content of any url.
+- [SimilarWeb](https://www.similarweb.com) - Reveal online strategy of any given url.
+
 ### Email Marketing
  - [Really Good Emails](https://reallygoodemails.com/) - Showcase of email design and resources on the web.
  
