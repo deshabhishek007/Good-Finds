@@ -34,6 +34,7 @@ List of Good Finds for Developer / Marketers / Blogger.
 
 ### Web Site Check
 - [BuiltWith](https://builtWith.com) - To check what tools are used to build website.
+- [Fullstory](https://www.fullstory.com) - Web Analytics with full session playback, GDPR Compliant.
 
 ### Web Based Designer Tools 
 - [Photopea](https://photopea.com) - Free online alternative for Photoshop.
