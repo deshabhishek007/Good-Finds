@@ -8,6 +8,8 @@ List of Good Finds for Developer / Marketers / Blogger.
  - [Huginn](https://github.com/huginn/huginn) - Self hosted, hackable version of IFTTT and Zapier.
  - [Phantombuster](https://phantombuster.com) - Data Scraping and Hackable API's.
  - [Later](https://later.com/) - Another Scheduling Tool, Free for Personal Use.
+ - [InstaPy](https://github.com/timgrossmann/InstaPy/) - Tool for automated Instagram interactions
+
 
 ### Competition Analysis
 - [Buzzsumo](https://app.buzzsumo.com/research/content) - Let you analyze performing content of any url.
