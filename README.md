@@ -35,6 +35,12 @@ List of Good Finds for Developer / Marketers / Blogger.
 ### Web Site Check
 - [BuiltWith](https://builtWith.com) - To check what tools are used to build website.
 - [Fullstory](https://www.fullstory.com) - Web Analytics with full session playback, GDPR Compliant.
+- [Link Checker](http://wheredoesthislinkgo.com/) - Enter a shortened URL to see where it will take you
+- [Speed Test](http://www.speedtest.net/) - Broadband Speed Test
+- [followww](https://followww.co/) - Track HTTP redirects and cookies from short URLs
+- [Check Malicious Site](http://vurldissect.co.uk/) - Check malicious or suspect websites
+- [Site Status](http://downforeveryoneorjustme.com/) - Down for everyone or just me
+
 
 ### Web Based Designer Tools 
 - [Photopea](https://photopea.com) - Free online alternative for Photoshop.
@@ -45,6 +51,20 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Adobe Spark](https://spark.adobe.com/) - Quick tool for Social Images and Videos.
 - [Lumen5](https://lumen5.com) - Convert Blogpost into 480p Video for free. 
 - [Animoto](https://animoto.com/) - Convert Images into videos, has mobile apps too.
+
+### Content Creation Tools
+- [Play.ht](https://play.ht/) - Convert your articles to audio
+- [unDraw](https://undraw.co/illustrations) - Browse images that fit your needs and download
+- [Carbon](https://carbon.now.sh/) - Create and share images of your source code
+- [CompressPDF](https://smallpdf.com/compress-pdf) - Reduce the size of your PDF online
+- [DrawIO](https://www.draw.io/) - Flowchart maker and online draw site
+- [Online Image Editor](http://www.online-image-editor.com/)
+- [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Online sequence diagrams from easy DSL
+- [yUML Online](http://yuml.me/) - Create UML diagrams online
+- [Hemingway Editor](http://www.hemingwayapp.com/) - Online editor with grammer and grade check
+- [scri.ch](https://scri.ch/) - Scribble online, draw anything
+- [Bitly](https://bitly.com/) - Link reducer
+- [remove.bg](https://www.remove.bg/) - Remove Background from Image
 
 ### Tools for Headline/Title  
 - [SEMRush Title Generator](https://www.semrush.com/title-generator/) - Ideas generator based on Keyword data.
