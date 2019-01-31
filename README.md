@@ -23,6 +23,9 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Keywords Everywhere](https://keywordseverywhere.com) - Browser based addon to analize keywords on page and on search reasults. Chrome & Firefox.
 - [AnswerThePublic](https://answerthepublic.com) - Visual Keyword Research and Content Ideas.
 
+### Social Media Management tools
+- [IG:dm](https://igdm.me/) - Electron based Instagram Client for Messaging from Desktop. (Open Source)
+
 ### Spreadsheet Hacks for SEO and Marketing
  - [Sheets for Marketers](https://sheetsformarketers.com/) - a curated directory of the best automation templates & tools in the wild. 
  - [RankTank](https://www.ranktank.org/) - DIY, Pre-built & Free SEO Tools.
