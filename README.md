@@ -18,6 +18,11 @@ List of Good Finds for Developer / Marketers / Blogger.
 ### Email Marketing
  - [Really Good Emails](https://reallygoodemails.com/) - Showcase of email design and resources on the web.
  
+### Health Check
+- [Check Malicious Site](http://vurldissect.co.uk/) - Check malicious or suspect websites 
+- [Site Status](http://downforeveryoneorjustme.com/) - Down for everyone or just me
+- [Mail Tester](https://www.mail-tester.com/) - Check the spammyness of your Email ID. 
+ 
 ### Keyword Research Tools
 - [UberSuggest](https://neilpatel.com/ubersuggest/) - By Neil Patel, good for finding keyword Ideas.
 - [Keywords Everywhere](https://keywordseverywhere.com) - Browser based addon to analize keywords on page and on search reasults. Chrome & Firefox.
@@ -41,8 +46,6 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Link Checker](http://wheredoesthislinkgo.com/) - Enter a shortened URL to see where it will take you
 - [Speed Test](http://www.speedtest.net/) - Broadband Speed Test
 - [followww](https://followww.co/) - Track HTTP redirects and cookies from short URLs
-- [Check Malicious Site](http://vurldissect.co.uk/) - Check malicious or suspect websites
-- [Site Status](http://downforeveryoneorjustme.com/) - Down for everyone or just me
 
 
 ### Web Based Designer Tools 
