@@ -84,6 +84,9 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Buffer Stories Creator](https://buffer.com/stories-creator) - Quickly create thumb-stopping content for Instagram and Facebook.
 - [Unfold](https://unfoldstori.es/) - Toolkit for Storytellers, with many clean layouts. 
 
+### UX Analytics
+- [AppSee](https://www.appsee.com/) - Analyzes user in-app behavior. 
+- [UserHeat](https://en.userheat.com/) - Heatmap Analytics tool
 
 ## Looking for more lists like that?
 - [Awesome](https://github.com/sindresorhus/awesome)
