@@ -11,7 +11,7 @@ List of Good Finds for Developer / Marketers / Blogger.
  - [InstaPy](https://github.com/timgrossmann/InstaPy/) - Tool for automated Instagram interactions
 
 ### Better Writing
-- [hemingway Editor](http://hemingwayapp.com/) - For Better and Clear writing, Web Version is free, App is paid
+- [hemingway Editor](http://hemingwayapp.com/) - Online editor with grammer and grade check for Better and Clear writing
 - [Grammerly](http://grammerly.com/) - Grammer assistance with Browser extensions.
 
 ### Content Audit Tools
@@ -31,7 +31,7 @@ List of Good Finds for Developer / Marketers / Blogger.
  
 ### Keyword Research Tools
 - [UberSuggest](https://neilpatel.com/ubersuggest/) - By Neil Patel, good for finding keyword Ideas.
-- [Keywords Everywhere](https://keywordseverywhere.com) - Browser based addon to analize keywords on page and on search reasults. Chrome & Firefox.
+- [Keywords Everywhere](https://keywordseverywhere.com) - Browser based addon to analize keywords on page and on search results. Chrome & Firefox.
 - [AnswerThePublic](https://answerthepublic.com) - Visual Keyword Research and Content Ideas.
 - [MozBar](https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp?hl=en) - Competitor research tool
 - [SEO Quake](https://chrome.google.com/webstore/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc) - Browser SEO toolbox
@@ -75,7 +75,6 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Online Image Editor](http://www.online-image-editor.com/)
 - [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Online sequence diagrams from easy DSL
 - [yUML Online](http://yuml.me/) - Create UML diagrams online
-- [Hemingway Editor](http://www.hemingwayapp.com/) - Online editor with grammer and grade check
 - [scri.ch](https://scri.ch/) - Scribble online, draw anything
 - [Bitly](https://bitly.com/) - Link reducer
 - [remove.bg](https://www.remove.bg/) - Remove Background from Image
