@@ -10,6 +10,10 @@ List of Good Finds for Developer / Marketers / Blogger.
  - [Later](https://later.com/) - Another Scheduling Tool, Free for Personal Use.
  - [InstaPy](https://github.com/timgrossmann/InstaPy/) - Tool for automated Instagram interactions
 
+### Better Writing
+- [hemingway Editor](http://hemingwayapp.com/) - For Better and Clear writing, Web Version is free, App is paid
+- [Grammerly](http://grammerly.com/) - Grammer assistance with Browser extensions.
+
 ### Content Audit Tools
  - [Content Auditor](https://onpointsuite.ca/contentauditor/) - Free for 1000 Pages with many micro audit reports.
 
