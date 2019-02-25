@@ -36,6 +36,10 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [MozBar](https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp?hl=en) - Competitor research tool
 - [SEO Quake](https://chrome.google.com/webstore/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc) - Browser SEO toolbox
 
+### Note Taking Apps
+- [Evernote](https://evernote.com/) - Manages notes on multiple devices.
+- [Otter](https://otter.ai) - For Voice Notes, upto 600 minutes of recording in Free Plan. 
+
 ### Social Media Management tools
 - [IG:dm](https://igdm.me/) - Electron based Instagram Client for Messaging from Desktop. (Open Source)
 
