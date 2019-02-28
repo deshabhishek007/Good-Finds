@@ -23,6 +23,9 @@ List of Good Finds for Developer / Marketers / Blogger.
 
 ### Email Marketing
  - [Really Good Emails](https://reallygoodemails.com/) - Showcase of email design and resources on the web.
+ - [MailChimp](https://mailchimp.com/) - For Managing your mail campaign
+ - [SendGrid](https://sendgrid.com/) - API for Sending Huge number of Mails.
+ - (PHPList)(https://www.phplist.org/) - Open Source Self hosted Mailing list software
  
 ### Health Check
 - [Check Malicious Site](http://vurldissect.co.uk/) - Check malicious or suspect websites 
@@ -35,6 +38,7 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [AnswerThePublic](https://answerthepublic.com) - Visual Keyword Research and Content Ideas.
 - [MozBar](https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp?hl=en) - Competitor research tool
 - [SEO Quake](https://chrome.google.com/webstore/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc) - Browser SEO toolbox
+- [KeywordShitter](https://keywordshitter.com/) - Good for generating set of keywords.
 
 ### Note Taking Apps
 - [Evernote](https://evernote.com/) - Manages notes on multiple devices.
@@ -42,6 +46,8 @@ List of Good Finds for Developer / Marketers / Blogger.
 
 ### Social Media Management tools
 - [IG:dm](https://igdm.me/) - Electron based Instagram Client for Messaging from Desktop. (Open Source)
+- [Hootsuite](https://hootsuite.com/) - Free for three Profiles. 
+- [TweetDeck](https://tweetdeck.twitter.com) - For Tweets
 
 ### Spreadsheet Hacks for SEO and Marketing
  - [Sheets for Marketers](https://sheetsformarketers.com/) - a curated directory of the best automation templates & tools in the wild. 
@@ -51,13 +57,25 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Instagram Monitoring Tool](https://igmonitoring.com/) - Open Source and Cloud version available.
 - [Matomo Analytics Platform](https://matomo.org) - Self hosted Analytics suite, Formerly known as Piwik.
 
+### Speed Check
+- [Speed Test](http://www.speedtest.net/) - Broadband Speed Test by ookla
+- [Fast](http://www.fast.net/) - Broadband Speed Test by Netflix
+
+### Site Load Speed Check
+- [GTMetrix](https://gtmetrix.com/) - For More options, make sure you are loggedin.
+- [Pingdom](https://tools.pingdom.com/)
+- [WebPageTest](https://www.webpagetest.org/) 
+- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- 
 
 ### Web Site Check
 - [BuiltWith](https://builtWith.com) - To check what tools are used to build website.
 - [Fullstory](https://www.fullstory.com) - Web Analytics with full session playback, GDPR Compliant.
 - [Link Checker](http://wheredoesthislinkgo.com/) - Enter a shortened URL to see where it will take you
-- [Speed Test](http://www.speedtest.net/) - Broadband Speed Test
 - [followww](https://followww.co/) - Track HTTP redirects and cookies from short URLs
+- [SEO Spider Tool By Screaming Frog](https://www.screamingfrog.co.uk/seo-spider) - Crawler that runs on your machine.
+
+
 
 
 ### Web Based Designer Tools 
