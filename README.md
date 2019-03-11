@@ -21,11 +21,32 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Buzzsumo](https://app.buzzsumo.com/research/content) - Let you analyze performing content of any url.
 - [SimilarWeb](https://www.similarweb.com) - Reveal online strategy of any given url.
 
+### Content Creation Tools
+- [Play.ht](https://play.ht/) - Convert your articles to audio
+- [unDraw](https://undraw.co/illustrations) - Browse images that fit your needs and download
+- [Carbon](https://carbon.now.sh/) - Create and share images of your source code
+- [CompressPDF](https://smallpdf.com/compress-pdf) - Reduce the size of your PDF online
+- [DrawIO](https://www.draw.io/) - Flowchart maker and online draw site
+- [Online Image Editor](http://www.online-image-editor.com/)
+- [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Online sequence diagrams from easy DSL
+- [yUML Online](http://yuml.me/) - Create UML diagrams online
+- [scri.ch](https://scri.ch/) - Scribble online, draw anything
+- [Bitly](https://bitly.com/) - Link reducer
+- [remove.bg](https://www.remove.bg/) - Remove Background from Image
+
+### Collaboration Tools
+- [AirTable](https://airtable.com/) 
+- [Trello](https://trello.com/)
+- [Asana](https://asana.com/)
+
 ### Email Marketing
  - [Really Good Emails](https://reallygoodemails.com/) - Showcase of email design and resources on the web.
  - [MailChimp](https://mailchimp.com/) - For Managing your mail campaign
  - [SendGrid](https://sendgrid.com/) - API for Sending Huge number of Mails.
  - (PHPList)(https://www.phplist.org/) - Open Source Self hosted Mailing list software
+ 
+ ### Freelance Management
+ - [AND CO](https://www.and.co/) - Invoicing, Client management, time tracking tool by fiverr
  
 ### Health Check
 - [Check Malicious Site](http://vurldissect.co.uk/) - Check malicious or suspect websites 
@@ -46,6 +67,8 @@ List of Good Finds for Developer / Marketers / Blogger.
 ### Note Taking Apps
 - [Evernote](https://evernote.com/) - Manages notes on multiple devices.
 - [Otter](https://otter.ai) - For Voice Notes, upto 600 minutes of recording in Free Plan. 
+- [Pocket](https://getpocket.com) - Notes & many more managements on multiple devices
+- [Google Keep](https://www.google.com/keep/) - Note Keeping app by Google
 
 ### Social Media Management tools
 - [IG:dm](https://igdm.me/) - Electron based Instagram Client for Messaging from Desktop. (Open Source)
@@ -64,45 +87,19 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Speed Test](http://www.speedtest.net/) - Broadband Speed Test by ookla
 - [Fast](http://www.fast.net/) - Broadband Speed Test by Netflix
 
+### Stay Focussed
+- [One Tab](https://www.one-tab.com/) - Extention for Chrome and Firefox to keep you focussed in Single tab
+
 ### Site Load Speed Check
 - [GTMetrix](https://gtmetrix.com/) - For More options, make sure you are loggedin.
 - [Pingdom](https://tools.pingdom.com/)
 - [WebPageTest](https://www.webpagetest.org/) 
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-- 
 
-### Web Site Check
-- [BuiltWith](https://builtWith.com) - To check what tools are used to build website.
-- [Fullstory](https://www.fullstory.com) - Web Analytics with full session playback, GDPR Compliant.
-- [Link Checker](http://wheredoesthislinkgo.com/) - Enter a shortened URL to see where it will take you
-- [followww](https://followww.co/) - Track HTTP redirects and cookies from short URLs
-- [SEO Spider Tool By Screaming Frog](https://www.screamingfrog.co.uk/seo-spider) - Crawler that runs on your machine.
-
-
-
-
-### Web Based Designer Tools 
-- [Photopea](https://photopea.com) - Free online alternative for Photoshop.
-- [Gravit Designer](https://designer.gravit.io/) - Free Online Vector Editor, also available for MacOS, Windows and Linux.
-- [Canva](https://canva.com) - Quick tool for Social media images.
-- [Pablo By Buffer](https://pablo.buffer.com/) - Quick tool to create social media quotes, discount images.
-- [Crello](https://crello.com/) - Online Graphic editor like Canva with more free features.
-- [Adobe Spark](https://spark.adobe.com/) - Quick tool for Social Images and Videos.
-- [Lumen5](https://lumen5.com) - Convert Blogpost into 480p Video for free. 
-- [Animoto](https://animoto.com/) - Convert Images into videos, has mobile apps too.
-
-### Content Creation Tools
-- [Play.ht](https://play.ht/) - Convert your articles to audio
-- [unDraw](https://undraw.co/illustrations) - Browse images that fit your needs and download
-- [Carbon](https://carbon.now.sh/) - Create and share images of your source code
-- [CompressPDF](https://smallpdf.com/compress-pdf) - Reduce the size of your PDF online
-- [DrawIO](https://www.draw.io/) - Flowchart maker and online draw site
-- [Online Image Editor](http://www.online-image-editor.com/)
-- [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Online sequence diagrams from easy DSL
-- [yUML Online](http://yuml.me/) - Create UML diagrams online
-- [scri.ch](https://scri.ch/) - Scribble online, draw anything
-- [Bitly](https://bitly.com/) - Link reducer
-- [remove.bg](https://www.remove.bg/) - Remove Background from Image
+### Time Management
+- (Tomato Timer)[https://tomato-timer.com/] - For Pomodoro Practitioners
+- (RescueTime)[https://www.rescuetime.com/] - Analyze the time you spend in various apps.
+- [React Tomato Timer](https://github.com/sonnylazuardi/react-tomato-timer) - Host your own verion of Tomato Timer.
 
 ### Tools for Headline/Title  
 - [SEMRush Title Generator](https://www.semrush.com/title-generator/) - Ideas generator based on Keyword data.
@@ -115,6 +112,23 @@ List of Good Finds for Developer / Marketers / Blogger.
 ### UX Analytics
 - [AppSee](https://www.appsee.com/) - Analyzes user in-app behavior. 
 - [UserHeat](https://en.userheat.com/) - Heatmap Analytics tool
+
+### Web Site Check
+- [BuiltWith](https://builtWith.com) - To check what tools are used to build website.
+- [Fullstory](https://www.fullstory.com) - Web Analytics with full session playback, GDPR Compliant.
+- [Link Checker](http://wheredoesthislinkgo.com/) - Enter a shortened URL to see where it will take you
+- [followww](https://followww.co/) - Track HTTP redirects and cookies from short URLs
+- [SEO Spider Tool By Screaming Frog](https://www.screamingfrog.co.uk/seo-spider) - Crawler that runs on your machine.
+
+### Web Based Designer Tools 
+- [Photopea](https://photopea.com) - Free online alternative for Photoshop.
+- [Gravit Designer](https://designer.gravit.io/) - Free Online Vector Editor, also available for MacOS, Windows and Linux.
+- [Canva](https://canva.com) - Quick tool for Social media images.
+- [Pablo By Buffer](https://pablo.buffer.com/) - Quick tool to create social media quotes, discount images.
+- [Crello](https://crello.com/) - Online Graphic editor like Canva with more free features.
+- [Adobe Spark](https://spark.adobe.com/) - Quick tool for Social Images and Videos.
+- [Lumen5](https://lumen5.com) - Convert Blogpost into 480p Video for free. 
+- [Animoto](https://animoto.com/) - Convert Images into videos, has mobile apps too.
 
 ## Looking for more lists like that?
 - [Awesome](https://github.com/sindresorhus/awesome)
