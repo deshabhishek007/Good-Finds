@@ -40,6 +40,9 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [SEO Quake](https://chrome.google.com/webstore/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc) - Browser SEO toolbox
 - [KeywordShitter](https://keywordshitter.com/) - Good for generating set of keywords.
 
+### Legal
+- (Docracy)[https://www.docracy.com/] - Open legal documents and signing
+
 ### Note Taking Apps
 - [Evernote](https://evernote.com/) - Manages notes on multiple devices.
 - [Otter](https://otter.ai) - For Voice Notes, upto 600 minutes of recording in Free Plan. 
