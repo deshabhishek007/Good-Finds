@@ -64,6 +64,9 @@ List of Good Finds for Developer / Marketers / Blogger.
 ### Legal
 - (Docracy)[https://www.docracy.com/] - Open legal documents and signing
 
+### Monitoring Tools
+- [Google Alerts](https://www.google.com/alerts) - Content Change detection and notification tool by Google.
+
 ### Note Taking Apps
 - [Evernote](https://evernote.com/) - Manages notes on multiple devices.
 - [Otter](https://otter.ai) - For Voice Notes, upto 600 minutes of recording in Free Plan. 
