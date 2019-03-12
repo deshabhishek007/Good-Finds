@@ -96,6 +96,11 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Moose By icon8](https://icons8.com/)
 - [Magdeleine](https://magdeleine.co/browse/)
 - [Gratisography](https://gratisography.com)
+- [Burst by Shopify](https://burst.shopify.com/)
+- [FreePhotos.cc](https://freephotos.cc)
+- [Pixabay](https://pixabay.com)
+- [PngTree](https://pngtree.com)
+- [Startup Photos](http://startupstockphotos.com)
 
 ### Stay Focussed
 - [One Tab](https://www.one-tab.com/) - Extention for Chrome and Firefox to keep you focussed in Single tab
@@ -139,6 +144,7 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Adobe Spark](https://spark.adobe.com/) - Quick tool for Social Images and Videos.
 - [Lumen5](https://lumen5.com) - Convert Blogpost into 480p Video for free. 
 - [Animoto](https://animoto.com/) - Convert Images into videos, has mobile apps too.
+- [Duotone](https://duotone.shapefactory.co/) - Simple design tools for everyone
 
 ## Looking for more lists like that?
 - [Awesome](https://github.com/sindresorhus/awesome)
