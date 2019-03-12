@@ -90,6 +90,13 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Speed Test](http://www.speedtest.net/) - Broadband Speed Test by ookla
 - [Fast](http://www.fast.net/) - Broadband Speed Test by Netflix
 
+### Stock Photos
+- [Pexels](https://www.pexels.com/) 
+- [Unsplash](https://unsplash.com/)
+- [Moose By icon8](https://icons8.com/)
+- [Magdeleine](https://magdeleine.co/browse/)
+- [Gratisography](https://gratisography.com)
+
 ### Stay Focussed
 - [One Tab](https://www.one-tab.com/) - Extention for Chrome and Firefox to keep you focussed in Single tab
 
