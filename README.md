@@ -129,6 +129,11 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [AppSee](https://www.appsee.com/) - Analyzes user in-app behavior. 
 - [UserHeat](https://en.userheat.com/) - Heatmap Analytics tool
 
+### Video Tools
+- [Wistia](https://www.wistia.com) - Video platform for marketers.
+- [Lumen5](https://lumen5.com) - Convert Blogpost into 480p Video for free. 
+- [Animoto](https://animoto.com/) - Convert Images into videos, has mobile apps too.
+
 ### Web Site Check
 - [BuiltWith](https://builtWith.com) - To check what tools are used to build website.
 - [Fullstory](https://www.fullstory.com) - Web Analytics with full session playback, GDPR Compliant.
@@ -144,8 +149,6 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Pablo By Buffer](https://pablo.buffer.com/) - Quick tool to create social media quotes, discount images.
 - [Crello](https://crello.com/) - Online Graphic editor like Canva with more free features.
 - [Adobe Spark](https://spark.adobe.com/) - Quick tool for Social Images and Videos.
-- [Lumen5](https://lumen5.com) - Convert Blogpost into 480p Video for free. 
-- [Animoto](https://animoto.com/) - Convert Images into videos, has mobile apps too.
 - [Duotone](https://duotone.shapefactory.co/) - Simple design tools for everyone
 
 ## Looking for more lists like that?
