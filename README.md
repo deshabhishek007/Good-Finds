@@ -134,6 +134,7 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Link Checker](http://wheredoesthislinkgo.com/) - Enter a shortened URL to see where it will take you
 - [followww](https://followww.co/) - Track HTTP redirects and cookies from short URLs
 - [SEO Spider Tool By Screaming Frog](https://www.screamingfrog.co.uk/seo-spider) - Crawler that runs on your machine.
+- [Wappalyzer](https://www.wappalyzer.com/) - A cross-platform utility that uncovers the technologies used on websites.
 
 ### Web Based Designer Tools 
 - [Photopea](https://photopea.com) - Free online alternative for Photoshop.
