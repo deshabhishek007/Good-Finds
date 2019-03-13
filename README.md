@@ -112,8 +112,8 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
 ### Time Management
-- (Tomato Timer)[https://tomato-timer.com/] - For Pomodoro Practitioners
-- (RescueTime)[https://www.rescuetime.com/] - Analyze the time you spend in various apps.
+- [Tomato Timer](https://tomato-timer.com/) - For Pomodoro Practitioners
+- [RescueTime](https://www.rescuetime.com/) - Analyze the time you spend in various apps.
 - [React Tomato Timer](https://github.com/sonnylazuardi/react-tomato-timer) - Host your own verion of Tomato Timer.
 
 ### Tools for Headline/Title  
