@@ -12,7 +12,7 @@ List of Good Finds for Developer / Marketers / Blogger.
 
 ### Better Writing
 - [hemingway Editor](http://hemingwayapp.com/) - Online editor with grammer and grade check for Better and Clear writing
-- [Grammerly](http://grammerly.com/) - Grammer assistance with Browser extensions.
+- [Grammarly](http://grammarly.com/) - Grammar assistance with Browser extensions.
 
 ### Content Audit Tools
  - [Content Auditor](https://onpointsuite.ca/contentauditor/) - Free for 1000 Pages with many micro audit reports.
@@ -22,6 +22,7 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [SimilarWeb](https://www.similarweb.com) - Reveal online strategy of any given url.
 
 ### Content Creation Tools
+- [Copywritely] (https://copywritely.com/) - Check and correct your content ( docs/text before publishing/landing pages)
 - [Play.ht](https://play.ht/) - Convert your articles to audio
 - [unDraw](https://undraw.co/illustrations) - Browse images that fit your needs and download
 - [Carbon](https://carbon.now.sh/) - Create and share images of your source code
@@ -57,6 +58,7 @@ List of Good Finds for Developer / Marketers / Blogger.
 ### Keyword Research Tools
 - [UberSuggest](https://neilpatel.com/ubersuggest/) - By Neil Patel, good for finding keyword Ideas.
 - [Keywords Everywhere](https://keywordseverywhere.com) - Browser based addon to analize keywords on page and on search results. Chrome & Firefox.
+- [Kparser](https://kparser.com/) - Keyword suggestion tool
 - [AnswerThePublic](https://answerthepublic.com) - Visual Keyword Research and Content Ideas.
 - [MozBar](https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp?hl=en) - Competitor research tool
 - [SEO Quake](https://chrome.google.com/webstore/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc) - Browser SEO toolbox
@@ -140,6 +142,7 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Fullstory](https://www.fullstory.com) - Web Analytics with full session playback, GDPR Compliant.
 - [Link Checker](http://wheredoesthislinkgo.com/) - Enter a shortened URL to see where it will take you
 - [followww](https://followww.co/) - Track HTTP redirects and cookies from short URLs
+- [Sitechecker] (https://sitechecker.pro/) - to check and monitor you site
 - [SEO Spider Tool By Screaming Frog](https://www.screamingfrog.co.uk/seo-spider) - Crawler that runs on your machine.
 - [Wappalyzer](https://www.wappalyzer.com/) - A cross-platform utility that uncovers the technologies used on websites.
 
