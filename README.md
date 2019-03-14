@@ -22,13 +22,13 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [SimilarWeb](https://www.similarweb.com) - Reveal online strategy of any given url.
 
 ### Content Creation Tools
-- [Copywritely] (https://copywritely.com/) - Check and correct your content ( docs/text before publishing/landing pages)
 - [Play.ht](https://play.ht/) - Convert your articles to audio
 - [unDraw](https://undraw.co/illustrations) - Browse images that fit your needs and download
 - [Carbon](https://carbon.now.sh/) - Create and share images of your source code
 - [CompressPDF](https://smallpdf.com/compress-pdf) - Reduce the size of your PDF online
 - [DrawIO](https://www.draw.io/) - Flowchart maker and online draw site
 - [Online Image Editor](http://www.online-image-editor.com/)
+- [Copywritely](https://copywritely.com/) - Check and correct your content
 - [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Online sequence diagrams from easy DSL
 - [yUML Online](http://yuml.me/) - Create UML diagrams online
 - [scri.ch](https://scri.ch/) - Scribble online, draw anything
@@ -45,7 +45,7 @@ List of Good Finds for Developer / Marketers / Blogger.
  - [Really Good Emails](https://reallygoodemails.com/) - Showcase of email design and resources on the web.
  - [MailChimp](https://mailchimp.com/) - For Managing your mail campaign
  - [SendGrid](https://sendgrid.com/) - API for Sending Huge number of Mails.
- - (PHPList)(https://www.phplist.org/) - Open Source Self hosted Mailing list software
+ - [PHPList](https://www.phplist.org/) - Open Source Self hosted Mailing list software
  
  ### Freelance Management
  - [AND CO](https://www.and.co/) - Invoicing, Client management, time tracking tool by fiverr
@@ -65,7 +65,7 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [KeywordShitter](https://keywordshitter.com/) - Good for generating set of keywords.
 
 ### Legal
-- (Docracy)[https://www.docracy.com/] - Open legal documents and signing
+- [Docracy](https://www.docracy.com) - Open legal documents and signing
 
 ### Monitoring Tools
 - [Google Alerts](https://www.google.com/alerts) - Content Change detection and notification tool by Google.
