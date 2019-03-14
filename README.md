@@ -54,6 +54,11 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Check Malicious Site](http://vurldissect.co.uk/) - Check malicious or suspect websites 
 - [Site Status](http://downforeveryoneorjustme.com/) - Down for everyone or just me
 - [Mail Tester](https://www.mail-tester.com/) - Check the spammyness of your Email ID. 
+
+### Image Optimization
+- [TinyPNG](https://tinypng.com)
+- [Squoosh](https://squoosh.app/)
+
  
 ### Keyword Research Tools
 - [UberSuggest](https://neilpatel.com/ubersuggest/) - By Neil Patel, good for finding keyword Ideas.
