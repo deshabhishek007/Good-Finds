@@ -58,6 +58,7 @@ List of Good Finds for Developer / Marketers / Blogger.
 ### Image Optimization
 - [TinyPNG](https://tinypng.com)
 - [Squoosh](https://squoosh.app/)
+- [ImageOptim](https://imageoptim.com/mac) -Image Optimizer for mac
 
  
 ### Keyword Research Tools
