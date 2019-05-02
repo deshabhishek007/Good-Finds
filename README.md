@@ -82,6 +82,10 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Pocket](https://getpocket.com) - Notes & many more managements on multiple devices
 - [Google Keep](https://www.google.com/keep/) - Note Keeping app by Google
 
+### Plagarism Check
+- [CopyScape](https://www.copyscape.com/)
+- [Plagiarism Checker by Grammarly](https://www.grammarly.com/plagiarism-checker)
+
 ### Social Media Management tools
 - [IG:dm](https://igdm.me/) - Electron based Instagram Client for Messaging from Desktop. (Open Source)
 - [Hootsuite](https://hootsuite.com/) - Free for three Profiles. 
