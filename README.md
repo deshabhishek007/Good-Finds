@@ -163,7 +163,8 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Pablo By Buffer](https://pablo.buffer.com/) - Quick tool to create social media quotes, discount images.
 - [Crello](https://crello.com/) - Online Graphic editor like Canva with more free features.
 - [Adobe Spark](https://spark.adobe.com/) - Quick tool for Social Images and Videos.
-- [Duotone](https://duotone.shapefactory.co/) - Simple design tools for everyone
+- [Duotone](https://duotone.shapefactory.co/) - Simple design tools for everyone.
+- [SVG BAckgrounds] (https://www.svgbackgrounds.com/) - Create SVG background fo your website.
 
 ## Looking for more lists like that?
 - [Awesome](https://github.com/sindresorhus/awesome)
