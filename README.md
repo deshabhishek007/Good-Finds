@@ -46,6 +46,8 @@ List of Good Finds for Developer / Marketers / Blogger.
  - [MailChimp](https://mailchimp.com/) - For Managing your mail campaign
  - [SendGrid](https://sendgrid.com/) - API for Sending Huge number of Mails.
  - [PHPList](https://www.phplist.org/) - Open Source Self hosted Mailing list software
+ - [Mosaico](https://mosaico.io/) - Open Source Responsive Email Template Editor.
+ 
  
  ### Freelance Management
  - [AND CO](https://www.and.co/) - Invoicing, Client management, time tracking tool by fiverr
@@ -152,7 +154,7 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Fullstory](https://www.fullstory.com) - Web Analytics with full session playback, GDPR Compliant.
 - [Link Checker](http://wheredoesthislinkgo.com/) - Enter a shortened URL to see where it will take you
 - [followww](https://followww.co/) - Track HTTP redirects and cookies from short URLs
-- [Sitechecker] (https://sitechecker.pro/) - to check and monitor you site
+- [Sitechecker](https://sitechecker.pro/) - to check and monitor you site
 - [SEO Spider Tool By Screaming Frog](https://www.screamingfrog.co.uk/seo-spider) - Crawler that runs on your machine.
 - [Wappalyzer](https://www.wappalyzer.com/) - A cross-platform utility that uncovers the technologies used on websites.
 
@@ -164,7 +166,7 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Crello](https://crello.com/) - Online Graphic editor like Canva with more free features.
 - [Adobe Spark](https://spark.adobe.com/) - Quick tool for Social Images and Videos.
 - [Duotone](https://duotone.shapefactory.co/) - Simple design tools for everyone.
-- [SVG BAckgrounds] (https://www.svgbackgrounds.com/) - Create SVG background fo your website.
+- [SVG BAckgrounds](https://www.svgbackgrounds.com/) - Create SVG background fo your website.
 
 ## Looking for more lists like that?
 - [Awesome](https://github.com/sindresorhus/awesome)
