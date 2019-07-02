@@ -117,6 +117,9 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [PngTree](https://pngtree.com)
 - [Startup Photos](http://startupstockphotos.com)
 
+### Stock Videos
+- [Mixkit](https://mixkit.co/)
+
 ### Stay Focussed
 - [One Tab](https://www.one-tab.com/) - Extention for Chrome and Firefox to keep you focussed in Single tab
 
