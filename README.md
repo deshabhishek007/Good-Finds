@@ -77,6 +77,7 @@ List of Good Finds for Developer / Marketers / Blogger.
 
 ### Monitoring Tools
 - [Google Alerts](https://www.google.com/alerts) - Content Change detection and notification tool by Google.
+- [AdinBox](https://adinbox.me/) - Get alerted by email when a competitor launches an ad on Facebook.
 
 ### Note Taking Apps
 - [Evernote](https://evernote.com/) - Manages notes on multiple devices.
