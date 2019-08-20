@@ -117,7 +117,7 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Pixabay](https://pixabay.com)
 - [PngTree](https://pngtree.com)
 - [Startup Photos](http://startupstockphotos.com)
-- [Stocksy](https://www.stocksy.com)
+
 
 ### Stock Videos
 - [Mixkit](https://mixkit.co/)
