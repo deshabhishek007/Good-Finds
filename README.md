@@ -14,6 +14,9 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [hemingway Editor](http://hemingwayapp.com/) - Online editor with grammer and grade check for Better and Clear writing
 - [Grammarly](http://grammarly.com/) - Grammar assistance with Browser extensions.
 
+### Better Reading
+- [Outline](https://www.outline.com) - Just paste the url of article you want to read and enjoy the clutter free view.
+
 ### Content Audit Tools
  - [Content Auditor](https://onpointsuite.ca/contentauditor/) - Free for 1000 Pages with many micro audit reports.
 
