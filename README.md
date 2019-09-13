@@ -23,6 +23,7 @@ List of Good Finds for Developer / Marketers / Blogger.
 ### Competition Analysis
 - [Buzzsumo](https://app.buzzsumo.com/research/content) - Let you analyze performing content of any url.
 - [SimilarWeb](https://www.similarweb.com) - Reveal online strategy of any given url.
+- [Thruu](https://app.samuelschmitt.com/#/) - Awesome SERP Analyzer - check what makes your competition Rank above you.
 
 ### Content Creation Tools
 - [Play.ht](https://play.ht/) - Convert your articles to audio
