@@ -137,6 +137,11 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [Web.Dev](https://web.dev/)
 
+### Trends Check
+- [Google Trends](https://trends.google.com/trends/) - To find what is trending in search.
+- [Taboola Trends](https://trends.taboola.com/) - Check what trends are getting more social traction. 
+- [Technology Radar by Thoughtworks](https://www.thoughtworks.com/radar) - An opinionated guide to technology frontiers.
+
 ### Time Management
 - [Tomato Timer](https://tomato-timer.com/) - For Pomodoro Practitioners
 - [RescueTime](https://www.rescuetime.com/) - Analyze the time you spend in various apps.
