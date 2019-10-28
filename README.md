@@ -42,6 +42,7 @@ List of Good Finds for Developer / Marketers / Blogger.
 ### Collaboration Tools
 - [AirTable](https://airtable.com/) 
 - [Trello](https://trello.com/)
+- [Zepel](https://zepel.io/)
 - [Asana](https://asana.com/)
 - [Coda](https://coda.io/)
 
