@@ -94,6 +94,9 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [CopyScape](https://www.copyscape.com/)
 - [Plagiarism Checker by Grammarly](https://www.grammarly.com/plagiarism-checker)
 
+### Planning & Management
+- [Weekdone](https://weekdone.com/)
+
 ### Social Media Management tools
 - [IG:dm](https://igdm.me/) - Electron based Instagram Client for Messaging from Desktop. (Open Source)
 - [Hootsuite](https://hootsuite.com/) - Free for three Profiles. 
