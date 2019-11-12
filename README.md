@@ -44,6 +44,7 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Trello](https://trello.com/)
 - [Zepel](https://zepel.io/)
 - [Asana](https://asana.com/)
+- [Clickup](https://clickup.com)
 - [Coda](https://coda.io/)
 
 ### Email Marketing
