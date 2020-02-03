@@ -103,6 +103,8 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [IG:dm](https://igdm.me/) - Electron based Instagram Client for Messaging from Desktop. (Open Source)
 - [Hootsuite](https://hootsuite.com/) - Free for three Profiles. 
 - [TweetDeck](https://tweetdeck.twitter.com) - For Tweets
+- [Buffer](https://buffer.com) - Content Scheduling
+- [Friend+Me](https://friendsplus.me/) - Content Scheduling
 
 ### Spreadsheet Hacks for SEO and Marketing
  - [Sheets for Marketers](https://sheetsformarketers.com/) - a curated directory of the best automation templates & tools in the wild. 
