@@ -53,6 +53,7 @@ List of Good Finds for Developer / Marketers / Blogger.
  - [SendGrid](https://sendgrid.com/) - API for Sending Huge number of Mails.
  - [PHPList](https://www.phplist.org/) - Open Source Self hosted Mailing list software
  - [Mosaico](https://mosaico.io/) - Open Source Responsive Email Template Editor.
+ - [Best Practices for Emailing](https://designsystem.quickbooks.com/emails/) - By Intuit.
  
  
  ### Freelance Management
