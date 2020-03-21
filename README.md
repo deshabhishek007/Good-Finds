@@ -144,6 +144,7 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [WebPageTest](https://www.webpagetest.org/) 
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [Web.Dev](https://web.dev/)
+- [Fast or Slow](https://www.fastorslow.com)
 
 ### Trends Check
 - [Google Trends](https://trends.google.com/trends/) - To find what is trending in search.
