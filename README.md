@@ -64,6 +64,9 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Site Status](http://downforeveryoneorjustme.com/) - Down for everyone or just me
 - [Mail Tester](https://www.mail-tester.com/) - Check the spammyness of your Email ID. 
 
+### Heatmaps
+ - [Clarity by Microsoft](https://clarity.microsoft.com/) - Free heatmaps, User session recording and more behaviour analytics by Microsoft.
+ 
 ### Image Optimization
 - [TinyPNG](https://tinypng.com)
 - [Squoosh](https://squoosh.app/)
