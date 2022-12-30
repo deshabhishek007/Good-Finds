@@ -65,7 +65,8 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Mail Tester](https://www.mail-tester.com/) - Check the spammyness of your Email ID. 
 
 ### Heatmaps
- - [Clarity by Microsoft](https://clarity.microsoft.com/) - Free heatmaps, User session recording and more behaviour analytics by Microsoft.
+- [Smartlook](https://www.smartlook.com/) - Free for personal use
+- [Clarity by Microsoft](https://clarity.microsoft.com/) - Free heatmaps, User session recording and more behaviour analytics by Microsoft.
  
 ### Image Optimization
 - [TinyPNG](https://tinypng.com)
