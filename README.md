@@ -63,6 +63,7 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Check Malicious Site](http://vurldissect.co.uk/) - Check malicious or suspect websites 
 - [Site Status](http://downforeveryoneorjustme.com/) - Down for everyone or just me
 - [Mail Tester](https://www.mail-tester.com/) - Check the spammyness of your Email ID. 
+- [UptimeRobot](https://uptimerobot.com/) - Website up time monitoring tool with email alert.
 
 ### Heatmaps
 - [Smartlook](https://www.smartlook.com/) - Free for personal use
@@ -71,7 +72,8 @@ List of Good Finds for Developer / Marketers / Blogger.
 ### Image Optimization
 - [TinyPNG](https://tinypng.com)
 - [Squoosh](https://squoosh.app/)
-- [ImageOptim](https://imageoptim.com/mac) -Image Optimizer for mac
+- [ImageOptim](https://imageoptim.com/mac) - Image Optimizer for mac
+- [Bulk Resize Photos](https://bulkresizephotos.com/) - Super fast and works locally in browser 
 
  
 ### Keyword Research Tools
@@ -96,6 +98,7 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Otter](https://otter.ai) - For Voice Notes, upto 600 minutes of recording in Free Plan. 
 - [Pocket](https://getpocket.com) - Notes & many more managements on multiple devices
 - [Google Keep](https://www.google.com/keep/) - Note Keeping app by Google
+- [QuickNote](https://quicknote.io/) - Quick note taking with easy sharing without any signup
 
 ### Plagarism Check
 - [CopyScape](https://www.copyscape.com/)
