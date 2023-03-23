@@ -26,6 +26,7 @@ List of Good Finds for Developer / Marketers / Blogger.
 - [Thruu](https://app.samuelschmitt.com/#/) - Awesome SERP Analyzer - check what makes your competition Rank above you.
 
 ### Content Creation Tools
+- [HitPaw Image Watermark Remover](https://online.hitpaw.com/photo-watermark-remover.html) - Remove watermarks from images online easily, no photo editing skill required!
 - [Play.ht](https://play.ht/) - Convert your articles to audio
 - [unDraw](https://undraw.co/illustrations) - Browse images that fit your needs and download
 - [Carbon](https://carbon.now.sh/) - Create and share images of your source code
