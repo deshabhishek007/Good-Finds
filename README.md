@@ -10,6 +10,9 @@ List of Good Finds for Developer / Marketers / Blogger.
  - [Later](https://later.com/) - Another Scheduling Tool, Free for Personal Use.
  - [InstaPy](https://github.com/timgrossmann/InstaPy/) - Tool for automated Instagram interactions
 
+### Best AI Tools
+- [Excuses.ai](https://excuses.ai/) - Make excuses by using AI
+
 ### Better Writing
 - [hemingway Editor](http://hemingwayapp.com/) - Online editor with grammer and grade check for Better and Clear writing
 - [Grammarly](http://grammarly.com/) - Grammar assistance with Browser extensions.
