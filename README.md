@@ -10,6 +10,16 @@ List of Good Finds for Developer / Marketers / Blogger.
  - [Later](https://later.com/) - Another Scheduling Tool, Free for Personal Use.
  - [InstaPy](https://github.com/timgrossmann/InstaPy/) - Tool for automated Instagram interactions
 
+### Best AI Tools
+- [Excuses.ai](https://excuses.ai/) - Make excuses by using AI
+- [IconifyAI](https://www.iconifyai.com/) - Create an Icon that truly represents your app with AI
+- [Craiyon](https://www.craiyon.com/) - Free online AI image generator from text
+- [SlideAI](https://www.slidesai.io/) - Create Presentations Slides with AI in seconds
+- [Writesonic](https://writesonic.com/) - AI Writer
+- [Stockimg.ai](https://stockimg.ai/) - Generate stock image & logo with AI
+- [Oxolo](https://www.oxolo.com/) - Create Video Ads In One Click
+- [CatGPT](https://cat-gpt.com/) - Get bored? Have fun with this AI tool
+
 ### Better Writing
 - [hemingway Editor](http://hemingwayapp.com/) - Online editor with grammer and grade check for Better and Clear writing
 - [Grammarly](http://grammarly.com/) - Grammar assistance with Browser extensions.
